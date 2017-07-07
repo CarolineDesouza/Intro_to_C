@@ -1,2 +1,2 @@
 # Intro_to_C
-Projects and assignments done for my Intro to Programming in C course (Fall '15).
+Projects and assignments for Intro to Programming in C (Fall '15).

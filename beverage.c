@@ -1,4 +1,4 @@
-//Caroline N. Desouza 
+//Author: Caroline N. Desouza 
 //September 25, 2015
 //COP 2220
 //1st Programming Assignment: Beverage inventory

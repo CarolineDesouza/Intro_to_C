@@ -1,7 +1,7 @@
-//Caroline Navega Desouza
-//COP 2220 9:30am
+//Author: Caroline N. Desouza
+//COP 2220 
 //October 28,2015
-//Program 2 - user buys apps
+//Program 2 - Basic C program where user can purchase an app
 
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>

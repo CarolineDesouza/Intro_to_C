@@ -1,14 +1,15 @@
-//Caroline Desousa 
+//Caroline N. Desouza 
 //September 25, 2015
-//COP 2220 9:30am
-//Program1: Beverage inventory
+//COP 2220
+//1st Programming Assignment: Beverage inventory
+//uses an external "records" file which is not posted here
 
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
-//FUNCTION PROTOTYPES
+//FUNCTION PROTOTYPES:
 
-//greets user
+//greet user
 void Greeting(void);
 
 //takes quantities of each brand and displays totals on screen
